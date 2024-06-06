@@ -1,3 +1,4 @@
+# ATENCION: esta version del programa trae en algunos casos registros de septiembre con formato dd/00/aa y las fechas no estan ordenadas como si lo estan los .csv que estan ya subidos.
 # Programa para escrapear datos de cotizaciones
 require 'nokogiri'
 require 'open-uri'
